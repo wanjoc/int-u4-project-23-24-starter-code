@@ -22,8 +22,16 @@ Add HTML elements for your quiz page to promote user interaction:
 - [ ] Input Tags
 - [ ] Button Tag
 
+Adjust the HTML to match your theme:
+- [ ] Title for your quiz
+- [ ] Questions for the user
+- [ ] Modify images to match theme
+
+
 ### CSS
-- [ ] Style is whatever way you want - consider changing the colors to match your theme.
+- [ ] Change the background color to reflect the theme
+- [ ] Change the font to reflect the theme
+
 
 ### JS
 Use JS to account for user interaction:
